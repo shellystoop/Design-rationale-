@@ -120,6 +120,8 @@ Om de gebruiker op een leuke manier kennis te maken met het proces binnen de ver
 
 ![](.gitbook/assets/virtuele-tour.png)
 
+{% embed url="https://vimeo.com/340914883" %}
+
 ### **11.0 Evenementen**
 
 Evenementen is een pagina die zowel vanuit de consument als uit Maxxium terug gezien wil worden op de website. Uit gesprekken met de doelgroep is gebleken dat de huidige website van World of Whisky te beperkt is wat betreft de evenementen \(💬[Gesprekken, productbiografie](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/fase-2-creeren/gesprekken-informatie-behoefte/huidige-informatie-vs-gewenste-informatie)\). De nieuwe pagina met evenementen is uitgebreid met meer informatie over het evenement en een directe knop naar de verkoop. Daarnaast is er een korte uitleg over voor wie de evenementen bedoeld zijn omdat de beginnend whisky drinker zich op de huidige website niet aangesproken voelde \(gesprekken, product biografie\). 
