@@ -20,9 +20,7 @@ Uit enquete resultaten is gebleken dat de beginnende whisky drinker voornamelijk
 
 📝 De enquete met de beginnende whisky drinker kunt u terug vinden in het hoofdstuk '[Enquete beginnende whisky drinker](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/enquete/enquete-resultaten-beginnende-whisky-drinker)' in mijn product biografie \(N=133\).   
   
-💁🏼‍♂️ De opgestelde persona's van de doelgroep kunt u terug vinden in het hoofdstuk '[Persona](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/1.8-persona)' in mijn product biografie.   
-  
-🔎 Mijn gehele deskresearch kunt u terug vinden in het hoofdstuk '[Desk research](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/1.4-trend-analyse)' in mijn product biografie.
+💁🏼‍♂️ De opgestelde persona's van de doelgroep kunt u terug vinden in het hoofdstuk '[Persona](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/1.8-persona)' in mijn product biografie. 
 
 ## **Informatie behoefte doelgroep**
 
