@@ -14,7 +14,7 @@ De beginnende whisky consument drinkt af en toe whisky maar heeft nog weinig ide
 
 > \*\*\*\*[**"Ik was al een rum drinker maar ben geïntrigeerd geraakt doordat er in whisky veel meer variatie is."**](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/enquete/enquete-resultaten-beginnende-whisky-drinker)
 
-Uit enquete resultaten is gebleken dat de beginnende whisky drinker voornamelijk mannelijk is en in de leeftijdscategorie 26-33 jaar oud valt. De beginnende whisky drinker drinkt het liefst thuis of bij vrienden en familie. Daarnaast drinkt hij ongeveer 1 tot 4 keer per maand whisky. Veel respondenten uit de doelgroep zijn geïnteresseerd geraakt in whisky door vrienden en omgeving of door de proeven en experimenteren. World of Whisky wordt zelden gebruikt onder de doelgroep.
+Uit enquete resultaten is gebleken dat de beginnende whisky drinker voornamelijk mannelijk is en in de leeftijdscategorie 18-33 jaar oud valt. De beginnende whisky drinker drinkt het liefst thuis of bij vrienden en familie. Daarnaast drinkt hij ongeveer 1 tot 4 keer per maand whisky. Veel respondenten uit de doelgroep zijn geïnteresseerd geraakt in whisky door vrienden en omgeving of door de proeven en experimenteren. World of Whisky wordt zelden gebruikt onder de doelgroep.
 
 🔎 Mijn gehele deskresearch kunt u terug vinden in het hoofdstuk '[Desk research](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/1.4-trend-analyse)' in mijn product biografie. 
 
