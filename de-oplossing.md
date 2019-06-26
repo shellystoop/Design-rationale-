@@ -16,8 +16,6 @@ De feedback die ik van medestudenten en begeleiders heb gekregen was dat een con
 
 Bij de samengestelde functies van het product heb ik rekening gehouden met de 4 type bezoekers die zijn ontstaan uit het Myers-Briggs Type Indicator. De eerste 2 types \(competitieve- en methodische bezoeker\) baseren aankopen op feiten zoals product informatie, smaaknotities en verkoop informatie. De andere types \(De spontane- en humanistische bezoeker_\)_ baseren aankopen juist op emotie zoals verhalen, acties en kortingen.  
 
-Bij mijn designkeuze zal te lezen zijn waarom ik heb gekozen voor de vormen, kleuren en stijl. Volgt eind deze week. 
-
 🔎 Mijn gehele deskresearch kunt u terug vinden in het hoofdstuk '[Desk research](https://app.gitbook.com/@shelly-stoop/s/world-of-whisky/design-brief-en-planning/1.4-onderzoeksmethoden/1.4-trend-analyse)' in mijn product biografie. 
 
 ## **Designkeuze**
